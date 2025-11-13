@@ -1,5 +1,8 @@
 # Banco de Dados Cursos Profissionalizantes
 
+Igor Paixão Sarak, Lucca Phelipe Masini, Luis Fernando de Oliveira Salgado
+RM 563726, 564121, 561401
+
 Projeto de banco de dados relacional para gerenciar cursos profissionalizantes, alunos, inscrições e avaliações. Desenvolvido como parte da disciplina de Cognitive Data Science - Futuro do Trabalho.
 
 ## Estrutura do Projeto
